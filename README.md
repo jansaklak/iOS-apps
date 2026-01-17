@@ -38,16 +38,16 @@ widoku (dane z core data)
 
 **Zadanie 4** Sieć
 
-3.0 pobieranie produktów oraz kategorii z aplikacji serwerowej
+:white_check_mark: 3.0 pobieranie produktów oraz kategorii z aplikacji serwerowej
 
-3.5 zapis danych lokalnie (CoreData)
+:white_check_mark: 3.5 zapis danych lokalnie (CoreData)
 
-4.0 pobieranie dodatkowo zamówień (minimum 5 pól, w tym jedna relacja)
+:white_check_mark: 4.0 pobieranie dodatkowo zamówień (minimum 5 pól, w tym jedna relacja)
 
-4.5 wyświetlanie produktów oraz ich kategorii na dwóch osobnych
+:white_check_mark: 4.5 wyświetlanie produktów oraz ich kategorii na dwóch osobnych
 listach
 
-5.0 dodawanie produktów z poziomu aplikacji mobilnej
+:white_check_mark: 5.0 dodawanie produktów z poziomu aplikacji mobilnej
 
 **Zadanie 5** Oauth
 
