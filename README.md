@@ -62,3 +62,14 @@ listach
 5.0 zapisywanie danych logowania OAuth2 po stronie serwera
 
 
+**Zadanie 6** Płatności
+
+:white_check_mark: 3.0 formularz płatności oraz mockowanie przez aplikację serwerową
+
+:white_check_mark: 3.5 model płatności lokalnie
+
+:white_check_mark: 4.0 lista zakupionych (opłaconych) produktów + model
+
+4.5 wdrożenie stripe'a
+
+5.0 dodanie skanowania kart
