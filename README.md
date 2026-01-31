@@ -75,8 +75,6 @@ listach
 
 **Zad 7** Testy
 
-Zad 7 Testy
-
 :white_check_mark: 3.0 stworzyć 30 asercji testów funkcjonalnych
 
 :white_check_mark: 3.5 stworzyć dodatkowo 20 asercji testów jednostkowych
